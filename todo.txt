@@ -19,30 +19,5 @@ Submit to Bootcamp Spot
 
 
 
-Updated Portfolio Requirements: 
-
-
-1. Display your contact information (name, email, and phone number) DONE
-
-2. Have links to your GitHub profile and LinkedIn profile DONE
-
-3. Have a link to a downloadable PDF of your resume DONE
-
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
-
-   * Project title DONE
-
-   * Link to the deployed version DONE
-
-   * Link to the GitHub repository DONE
-
-   * Screenshot of the deployed application DONE
-
-5. Have a polished, mobile-responsive user interface. DONE
-
-
-6. Design
-    * Mobile-first design
-    * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 
 
