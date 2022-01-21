@@ -9,6 +9,7 @@ Review 7-Proect 1 Activities
 Look at Student Resources 
 Create Pseudocode (if needed)
 Beigin Coding 
+Practice git branching 
 Create README 
 Review grading criteria 
 Make sure live page works 
