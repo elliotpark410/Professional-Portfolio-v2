@@ -31,13 +31,21 @@ To install this code, use Github's guidlines to clone the repository
 <br>
 
 Here is a link to the Github repository
->https://elliotpark410.github.io/Weather-Dashboard/
+>https://github.com/elliotpark410/Professional-Portfolio-v2
 
 <br>
 
 ## Screenshots 
 
-<img src="Weather Dashboard screenshot.png" title="Weather Dashboard screenshot" width = 700px>
+<img src="images\1. Home and Navbar screenshot.png" title="Home and Navbar screenshot" width = 700px>
+
+<br>
+
+<img src="images\2. Projects screenshot.png" title="Projects screenshot" width = 700px>
+
+<br>
+
+<img src="images\3. Resume and Contact Me screenshot.png" title="Resume and ContactMe screenshot" width = 700px>
 
 <br>
 
