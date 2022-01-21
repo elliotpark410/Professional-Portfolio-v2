@@ -2,8 +2,8 @@ Todos:
 Create git repository DONE
 Clone to local machine DONE
 Create live page in Github DONE
-Read README.md 
-Look at Student Resources 
+Read README.md DONE
+Look at Student Resources DONE
 Complete 07-Project 1 Code Drills 
 Review 7-Proect 1 Activities
 Create Pseudocode (if needed)
@@ -11,7 +11,7 @@ Create wireframe
 Create user story 
 Beigin Coding 
 Practice git branching 
-Create README 
+Create README with links to Deployed Link, Github, LinkedIn, and Resume. Include contact info and MIT license
 Review grading criteria 
 Make sure live page works 
 Submit to Bootcamp Spot
