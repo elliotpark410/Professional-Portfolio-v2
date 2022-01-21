@@ -1,0 +1,15 @@
+Todos: 
+Create git repository DONE
+Clone to local machine DONE
+Create live page in Github DONE
+Read README.md 
+Watch class video on ???
+Complete 07-Project 1 Code Drills 
+Review 7-Proect 1 Activities
+Look at Student Resources 
+Create Pseudocode (if needed)
+Beigin Coding 
+Create README 
+Review grading criteria 
+Make sure live page works 
+Submit to Bootcamp Spot
