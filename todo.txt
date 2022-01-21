@@ -38,7 +38,7 @@ Updated Portfolio Requirements:
 
    * Screenshot of the deployed application DONE
 
-5. Have a polished, mobile-responsive user interface.
+5. Have a polished, mobile-responsive user interface. DONE
 
 
 6. Design

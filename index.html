@@ -17,20 +17,20 @@
 
     <!-- Create a nav bar with hyperlinks that take you to other parts of the page  -->
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-light w-100">
+        <nav class="navbar navbar-expand-sm navbar-light w-100">
             <div class="collapse navbar-collapse">
                 <div class="navbar-nav mr-auto my-2">
-                    <a class="nav-link mx-4" href="index.html"><strong>Home</strong></a>
-                    <a class="nav-link mx-4" href="#project"><strong>Projects</strong></a>
-                    <a class="nav-link mx-4" href="#resume"><strong>Resume</strong></a>
-                    <a class="nav-link mx-4" href="#contact-me"><strong>Contact Me</strong></a>
+                    <a class="nav-link mx-4 navContent" href="index.html"><strong><h4>Home</h4></strong></a>
+                    <a class="nav-link mx-4 navContent" href="#project"><strong><h4>Projects</h4></strong></a>
+                    <a class="nav-link mx-4 navContent" href="#resume"><strong><h4>Resume</h4></strong></a>
+                    <a class="nav-link mx-4 navContent" href="#contact-me"><strong><h4>Contact Me</h4></strong></a>
                 </div>
             </div>
         </nav>
     </header>
 
     <!-- Create a fluid container which creates a full width container -->
-    <div class="container-fluid">
+    <div id="container" class="container-fluid">
         <!-- Include a banner image at the top -->
         <div class="row">
             <img src="images\Top Banner.png" class="w-100">
@@ -109,6 +109,7 @@
 
 
         <!-- Create a resume section with a simple card that has a button to a link (Elliot's Resume.pdf) -->
+        <hr>
         <section id="resume" class="p-5">
             <h2 class="mb-4">Resume</h2>
             <div class="row justify-content-center">
@@ -116,7 +117,7 @@
                     <div class="card text-center h-100">
                         <div class="card-body p-3">
                             <img id="linkedin-profile" src="images\LinkedIn Profile PIcture.png" class="card-img-top img-fluid" alt="LinkedIn Profile picture"/>
-                            <a href="assets\Elliot's Resume.pdf" class="btn-lg" download>
+                            <a id="resumeContent" href="assets\Elliot's Resume.pdf" class="btn-lg" download>
                                 <i class="fas fa-file-pdf"></i></i> <strong>Elliot Park's Resume</strong>
                             </a>
                         </div>
@@ -128,6 +129,7 @@
 
 
         <!-- Create a contact section name, email, phone number, links to github profile and LinkedIn profile  -->
+        <hr>
         <section id="contact-me" class="p-5">
             <h2 class="mb-4">Contact Me</h2>
 
