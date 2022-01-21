@@ -10,12 +10,12 @@ Create Pseudocode (if needed)
 Create wireframe
 Create user story 
 Beigin Coding DONE 
-Add comments and clean up code 
+Add comments and clean up code DONE
 Practice git branching 
-Create README with contact info and links to Deployed Link, Github, LinkedIn, and Resume
-Review grading criteria 
-Make sure live page works 
-Submit to Bootcamp Spot
+Create README with contact info and links to Deployed Link, Github, LinkedIn, and Resume DONE
+Review grading criteria DONE
+Make sure live page works DONE 
+Submit to Bootcamp Spot DONE
 
 
 
