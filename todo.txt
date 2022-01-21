@@ -9,7 +9,7 @@ Review 7-Proect 1 Activities
 Create Pseudocode (if needed)
 Create wireframe
 Create user story 
-Beigin Coding 
+Beigin Coding DONE 
 Add comments and clean up code 
 Practice git branching 
 Create README with contact info and links to Deployed Link, Github, LinkedIn, and Resume

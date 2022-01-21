@@ -122,7 +122,7 @@ Code Snippet Results
 
 ## Authors
 
-* **Elliot Park** s
+* **Elliot Park** 
 
 - [Link to Professional Portfolio](https://elliotpark410.github.io/Professional-Portfolio-v2)
 - [Link to Github](https://github.com/elliotpark410)
