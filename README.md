@@ -1,8 +1,6 @@
 # Professional-Portfolio-v2
 
-OLD README.MD MUST UPDATE!!!! LOOK AT OTHER READMES AND SEE HOW MINE CAN IMPROVE 
-
-The Weather Dashboard is a weather app that displays data by city. The weather app allows a user to enter a city and it will fetch data from the openweathermap API for dynamic weather results. This app will utilize a browser's local storage and feature dynamically updated HTML and CSS powered by jQuery.
+The Professional Portfolio v2 is a page where I can display some of my projects, resume, and contact information. I made one a couple weeks ago and it was time to update some content and utilize what I have learned to upgrade my portfolio. This application will feature strcture from HTML and design from Bootstrap CSS.
 
 <br>
 
@@ -10,7 +8,7 @@ The Weather Dashboard is a weather app that displays data by city. The weather a
 
 Open your favorite web browser and enter the following web address to access. 
 
->https://elliotpark410.github.io/Weather-Dashboard/
+>https://elliotpark410.github.io/Professional-Portfolio-v2/
 
 <br>
 
