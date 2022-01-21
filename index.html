@@ -20,24 +20,24 @@
         <nav class="navbar navbar-expand-sm navbar-light bg-light w-100">
             <div class="collapse navbar-collapse">
                 <div class="navbar-nav mr-auto my-2">
-                    <a class="nav-link mx-4" href="index.html">Home</a>
-                    <a class="nav-link mx-4" href="#project">Projects</a>
-                    <a class="nav-link mx-4" href="#resume">Resume</a>
-                    <a class="nav-link mx-4" href="#contact">Contact</a>
+                    <a class="nav-link mx-4" href="index.html"><strong>Home</strong></a>
+                    <a class="nav-link mx-4" href="#project"><strong>Projects</strong></a>
+                    <a class="nav-link mx-4" href="#resume"><strong>Resume</strong></a>
+                    <a class="nav-link mx-4" href="#contact-me"><strong>Contact Me</strong></a>
                 </div>
             </div>
         </nav>
     </header>
 
-
+    <!-- Create a fluid container which creates a full width container -->
     <div class="container-fluid">
         <!-- Include a banner image at the top -->
         <div class="row">
-            <img id="top-banner" src="images\Top Banner.png" class="w-100">
+            <img src="images\Top Banner.png" class="w-100">
         </div>
 
-        <!-- Create a projects section that displays previous project with project title, photo, description, technologies used, and deployed link and github repo  -->
-        <section id="project" class="p-3">
+         <!-- Create a projects section with a card that displays previous project with project title, photo, description, technologies used, and deployed link and github repo  -->
+        <section id="project" class="p-5">
             <h2 class="mb-4">Projects</h2>
             <div class="row justify-content-center">
 
@@ -61,15 +61,17 @@
                             <!-- Create a div for buttons wth class="btn" for easier styling -->
                             <div class="w-100 py-3 position-absolute">
                                 <a href="https://scottybuoy.github.io/Is-it-a-Movie/" class="btn">
-                                    <i class="fas fa-desktop"></i></i> Deployed Link</a>
+                                    <i class="fas fa-desktop"></i></i> Deployed Link
+                                </a>
                                 <a href="https://github.com/elliotpark410/Is-it-a-Movie" class="btn">
-                                    <i class="fab fa-github"></i> Github Repo</a>
+                                    <i class="fab fa-github"></i> Github Repo
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                 <!-- Create a projects section that displays previous project with project title, photo, description, technologies used, and deployed link and github repo  -->
+                 <!-- Create a projects section with a card that displays previous project with project title, photo, description, technologies used, and deployed link and github repo  -->
                 <div class="col-sm-4 col-md-6 col-12 mb-5">
                     <div class="card text-center h-100 pb-5">
                         <h3>Code Quiz</h3>
@@ -87,12 +89,15 @@
                                     </small>
                                 </em>
                             </p>
+                            <br>
                              <!-- Create a div for buttons wth class="btn" for easier styling -->
                             <div class="w-100 py-3 position-absolute">
                                 <a href="https://elliotpark410.github.io/Code-Quiz/" class="btn">
-                                    <i class="fas fa-desktop"></i></i> Deployed Link</a>
+                                    <i class="fas fa-desktop"></i></i> Deployed Link
+                                </a>
                                 <a href="https://github.com/elliotpark410/Code-Quiz" class="btn">
-                                    <i class="fab fa-github"></i> Github Repo</a>
+                                    <i class="fab fa-github"></i> Github Repo
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -100,6 +105,51 @@
 
             </div>
         </section>
+
+
+
+        <!-- Create a resume section with a simple card that has a button to a link (Elliot's Resume.pdf) -->
+        <section id="resume" class="p-5">
+            <h2 class="mb-4">Resume</h2>
+            <div class="row justify-content-center">
+                <div class="col-sm-4 col-md-6 col-12 mb-5 text-center">
+                    <div class="card text-center h-100">
+                        <div class="card-body p-3">
+                            <img id="linkedin-profile" src="images\LinkedIn Profile PIcture.png" class="card-img-top img-fluid" alt="LinkedIn Profile picture"/>
+                            <a href="assets\Elliot's Resume.pdf" class="btn-lg" download>
+                                <i class="fas fa-file-pdf"></i></i> <strong>Elliot Park's Resume</strong>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- Create a contact section name, email, phone number, links to github profile and LinkedIn profile  -->
+        <section id="contact-me" class="p-5">
+            <h2 class="mb-4">Contact Me</h2>
+
+                <div class="text-center">
+                    <span class="px-3">Email: 
+                        <a href="mailto:elliotpark410@gmail.com"><i class="fas fa-envelope-square"></i>  elliotpark410@gmail.com</a>
+                    </span> 
+
+                    <span class="px-3">Phone: 
+                        <a href="tel:949-533-5643"><i class="fas fa-mobile-alt"></i>  949-533-5643</a>
+                    </span> 
+
+                    <span class="px-3">GitHub: 
+                        <a href="https://github.com/elliotpark410"><i class="fab fa-github-square"></i>  elliotpark410</a>
+                    </span> 
+
+                    <span class="px-3">LinkedIn: 
+                        <a href="https://www.linkedin.com/in/elliot-park/"><i class="fab fa-linkedin"></i>  elliot-park</a>
+                    </span>            
+                </div>
+        </section>
+
     
     
     
