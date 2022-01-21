@@ -120,19 +120,11 @@ Code Snippet Results
 
 <br>
 
-* How to create dynamically generated HTML content in JavaScript with jQuery
-
-<br>
-
-* How to persist data with local storage
-
-<br>
-
 ## Authors
 
 * **Elliot Park** s
 
-- [Link to Work Weather Dashboard application](https://elliotpark410.github.io/Weather-Dashboard/)
+- [Link to Professional Portfolio](https://elliotpark410.github.io/Professional-Portfolio-v2)
 - [Link to Github](https://github.com/elliotpark410)
 - [Link to LinkedIn](https://www.linkedin.com/in/elliot-park/)
 
@@ -142,10 +134,10 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the UC Berkeley Extension Program 
+This project is licensed under the MIT License
 
 <br>
 
 ## Acknowledgments
 
-* Thank you to Jerome Chenette, Manuel Nunes, Daniel Chicchon, Brittany Crosthwait for their help!
+* Thank you to Jerome Chenette, Manuel Nunes, and Daniel Chicchon for their help!
