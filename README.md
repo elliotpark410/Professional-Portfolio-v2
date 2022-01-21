@@ -53,53 +53,70 @@ Here is a link to the Github repository
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Bootstrap](https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap)
 
 <br>
 
 ## Code Snippets
 
-This code snippet shows how you can create an HTML content using jQuery and CSS Bootstrap
+This code snippet shows how you can create a row of text content that displays buttons with links.
 
-* jQuery allows user to dynamically generate HTML code within JavaScript with $(`EnterHTMLContentHere`);
+* HTML span tag is an inline container used to mark up text i.e. the text will display in a horizontal fashion
 
-* Bootstrap CSS has pre-built cards with CSS styling that you can grab from their website
+* HTML a tag defines a hyperlink so when a user clicks the content inside of the a tag, it will look at the href attribute and take the user to the link's desintation  
 
+* Font Aweomse is a font and icon toolkit based on CSS. The i tag is generating an icon 
 
-```
-
-var fiveDayForecastCard = $(`
-    <div class="pl-3">
-        <div class="card pl-3 pt-3 mb-3 bg-primary text-light" style="width: 12rem;>
-            <div class="card-body">
-                <h5>${dateFiveDayForecast}</h5>
-                <p>${iconURLFiveDayForecast}</p>
-                <p>Temperature: ${cityWeatherFiveDayForecast.temperature} °F</p>
-                <p>Humidity: ${cityWeatherFiveDayForecast.humidity}\%</p>
-            </div>
-        </div>
-    <div>
-`);
-
-$("#five-day-forecast").append(fiveDayForecastCard);
 
 ```
+<span class="px-3">Email: 
+    <a href="mailto:elliotpark410@gmail.com">
+    <i class="fasfa-envelope-square"></i>  
+    elliotpark410@gmail.com
+    </a>
+</span> 
 
- <br>
+<span class="px-3">Phone: 
+    <a href="tel:949-533-5643">
+    <i class="fas fa-mobile-alt"></i>  
+    949-533-5643
+    </a>
+</span> 
+
+<span class="px-3">GitHub: 
+    <a href="https://github.com/elliotpark410">
+    <i class="fab fa-github-square"></i>  
+    elliotpark410
+    </a>
+</span> 
+
+<span class="px-3">LinkedIn: 
+    <a href="https://www.linkedin.com/in/elliot-park/">
+    <i class="fab fa-linkedin"></i> 
+    elliot-park
+    </a>
+</span>   
+```
+<br>
+Code Snippet Results
+<img src="images\4. Code Snippet Results screenshot.png" title="Code Snippet Results screenshot" width = 700px>
+
+<br>
+<br>
 
 ## Deployed Link
 
-* [https://elliotpark410.github.io/Weather-Dashboard/](#)
+* [https://elliotpark410.github.io/Professional-Portfolio-v2](#)
 
 <br>
 
 ## Learning Points
 
-* How to use jQuery API, and Bootstrap API
+* How to use grid system with Bootstrap CSS
 
 <br>
 
-* How to fetch and parse data from OpenWeather API
+* How to create cards with Bootstrap CSS
 
 <br>
 
