@@ -43,6 +43,6 @@ Updated Portfolio Requirements:
 
 6. Design
     * Mobile-first design
-    * Choose a color palette for your site so it doesn't just look like the default bootstrap theme 
+    * Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 
 
